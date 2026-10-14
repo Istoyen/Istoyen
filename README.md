@@ -34,6 +34,7 @@ These projects use **synthetic, nonconfidential datasets**. They demonstrate ana
 
 - M.S., Data Analytics — University of Maryland Global Campus
 - B.S., Health Services Management — University of Maryland Global Campus
+- 
 - Google Advanced Data Analytics Professional Certificate — Coursera, April 2026
 - Certified Information Systems Auditor (CISA)
 - Salesforce Reports and Dashboard Specialist
