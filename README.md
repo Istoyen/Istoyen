@@ -20,13 +20,15 @@ Based in **Severn, Maryland**, I work as a **Data Insight Analyst at AssistRx**,
 **Healthcare analytics:** claims and provider data, HEDIS and Star Ratings reporting, patient segmentation and fulfillment monitoring  
 **Portfolio implementation:** Python for reproducible synthetic data generation and analysis
 
+[View my live portfolio](https://istoyen.github.io/) · [Browse SQL, Python and project files](https://github.com/Istoyen/istoyen.github.io)
+
 ## Featured portfolio projects
 
 | Project | Question | Methods |
 |---|---|---|
-| Patient access and enrollment | Where do referrals stall before the first paid shipment? | Cohort definitions, stage completion, payer segmentation |
-| Specialty pharmacy shipment quality | Which feed rows need investigation before reporting? | SQL window functions, validation flags, exception queues, reconciliation |
-| Onboarding and bridge turnaround | Where is work waiting, including cases still open? | Median and P90 duration, stage analysis, pending-case aging |
+| [Patient access and enrollment](https://istoyen.github.io/projects/patient-access.html) | Where do referrals stall before the first paid shipment? | Cohort definitions, stage completion, payer segmentation |
+| [Specialty pharmacy shipment quality](https://istoyen.github.io/projects/shipment-quality.html) | Which feed rows need investigation before reporting? | SQL window functions, validation flags, exception queues, reconciliation |
+| [Onboarding and bridge turnaround](https://istoyen.github.io/projects/turnaround.html) | Where is work waiting, including cases still open? | Median and P90 duration, stage analysis, pending-case aging |
 
 These projects use **synthetic, nonconfidential datasets**. They demonstrate analytical methods and do not represent actual employer data, production performance, or measured business results. The project package includes executable SQL and Python, interactive browser dashboards, and Power BI build assets.
 
